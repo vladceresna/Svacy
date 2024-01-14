@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Svacy</string>
+    <string name="vacy">vacy</string>
+    <string name="search">Search</string>
+    <string name="settingyourstyle">Настройте свой стиль</string>
+    <string name="url">Url</string>
+</resources>
